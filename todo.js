@@ -45,3 +45,6 @@ ul.addEventListener("click",function(event){
 
 //     });//doubt here bind(this)
 // }
+
+//mistake
+//1
